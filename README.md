@@ -1,4 +1,6 @@
-# user-information-form
+# user-information-forum
+
+It is a forum where users can store those data which they don't want t remember and cann access it anytime.
 
 __Tech Stacks__
 1. HTML
